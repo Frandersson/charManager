@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 class Table extends Component {
     render() {
-        //const {characterData, removeCharacter} = this.props;
+         // const {characterData, removeCharacter} = this.props;
 
         return (
             <table>
